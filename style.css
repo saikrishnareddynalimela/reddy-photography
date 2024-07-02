@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h2{
+    font-style: italic;
+    text-align: start;
+}
+body {
+    background-image: url("https://images.pexels.com/photos/7104962/pexels-photo-7104962.jpeg?cs=srgb&dl=pexels-usbofphotography-7104962.jpg&fm=jpg");
+    background-size:50%;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat:no-repeat;
+}
+img{
+    height: 100%;
+    width: 100%;
+}
+a{
+    height: 500px;
+    width: 500px;
+}
